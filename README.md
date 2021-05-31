@@ -5,6 +5,7 @@
   - Process Automation
   - Functional Programming
   - Programming Languages
+  - Compilers
   - Music & Technology Intersections
 - 🌱 I’m currently learning ...
   - Rust
