@@ -9,6 +9,7 @@
   - Music & Technology Intersections
 - 🌱 I’m currently learning ...
   - Rust
+  - Category Theory
 
 <!---
 donovandicks/donovandicks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
