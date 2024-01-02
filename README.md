@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Donovan</h1>
 <h3 align="center">A passionate Backend Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=donovandicks&label=Profile%20views&color=0e75b6&style=flat" alt="donovandicks" /> </p>
-
 - 🔭 I’m currently working on **integrating enterprise applications with microservices.**
 
 - 👀 I’m interested in **integration patterns, system architecture, programming languages, music technology, and more!**
