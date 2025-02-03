@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Donovan</h1>
 <h3 align="center">A passionate Backend Software Engineer</h3>
 
-- 🔭 I’m currently working on **integrating enterprise applications with microservices.**
+- 🔭 I’m currently working on **detecting, mitigating, and resolving cybersecurity threats with LLMs.**
 
 - 👀 I’m interested in **integration patterns, system architecture, programming languages, music technology, and more!**
 
 - ⚡ Fun fact **I'm a long time trumpet player and music lover.**
+
+- 🏢 I currently work for [7AI](https://7ai.com/home), and previously for [WMG](https://www.wmg.com/), [Datadog](https://www.datadoghq.com/), and [GoTo (fka LogMeIn)](https://www.goto.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
