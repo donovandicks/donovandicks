@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **detecting, mitigating, and resolving cybersecurity threats with LLMs.**
 
-- 👀 I’m interested in **integration patterns, system architecture, programming languages, music technology, and more!**
+- 👀 I’m interested in **programming languages, compilers, observability, performance**
 
 - ⚡ Fun fact **I'm a long time trumpet player and music lover.**
 
