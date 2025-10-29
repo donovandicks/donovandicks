@@ -40,7 +40,7 @@
       </ul>
       <p>
         <strong>📫 Let's Connect:</strong> <a
-          href="https://linkedin.com/in/donovan-dicks-914a9311b/"
+          href="https://www.linkedin.com/in/donovan-d-914a9311b/"
           target="blank"
         ><img
             align="center"
