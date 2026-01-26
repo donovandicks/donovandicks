@@ -8,26 +8,19 @@
   <tr>
     <td valign="top" width="60%">
       <p>
-        Hello! I'm a senior engineer with a deep interest in how
-        high-performance, reliable software is built. My career has been a
-        journey through scaling systems, optimizing services, and building
-        secure platforms.
+        Hello! I'm an engineer with a deep interest in how high-performance, 
+        reliable software is built.
       </p>
       <ul>
         <li>
-          🔭 <strong>What I'm Building:</strong> Currently at <a
-            href="https://7ai.com/home"
-          >7AI</a>, I'm focused on the cutting edge of cybersecurity—using LLMs
-          to detect, mitigate, and resolve sophisticated threats.
-        </li>
-        <li>
-          💡 <strong>Core Passions:</strong> My passion lies in the "how" of
-          software: programming languages, compiler design, system
-          observability, and eking out every drop of performance.
+          🔭 <strong>What I'm Building:</strong> Currently at $STEALTH, I'm focused 
+          on leveraging AI to make SaaS support delightful.
         </li>
         <li>
           🚀 <strong>My Journey:</strong> I've had the privilege of building and
           scaling systems at great companies, including <a
+            href="https://7ai.com/home"
+          >7AI</a>, <a
             href="https://www.wmg.com/"
           >WMG</a>, <a href="https://www.datadoghq.com/">Datadog</a>, and <a
             href="https://www.goto.com/"
